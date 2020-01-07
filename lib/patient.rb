@@ -34,20 +34,5 @@ def doctors
                       }
 @doctors
 end
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  @doctors << appointment.doctor}
-end
-  @doctors
+
 end
