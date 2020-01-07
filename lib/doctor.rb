@@ -34,5 +34,4 @@ def appointments
       end
                       }
         
-    
 end
