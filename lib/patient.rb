@@ -27,5 +27,5 @@ def appointments
         end
 def doctors
   @doctors = []
-  appointments.each{|appointment| if appointment.
+  appointments.each{|appointment| @doctors << appointment}
 end
