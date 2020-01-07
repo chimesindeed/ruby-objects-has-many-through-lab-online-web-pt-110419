@@ -29,3 +29,4 @@ def doctors
   @doctors = []
   appointments.each{|appointment| @doctors << appointment}
 end
+end
