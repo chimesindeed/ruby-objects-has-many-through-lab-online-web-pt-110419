@@ -26,6 +26,8 @@ def appointments
 }
             @appointments
         end
-    
+   def patients
+     @patients = []
+     appointments.each
     
 end
