@@ -32,7 +32,7 @@ def doctors
         @doctors << appointment.doctor
       end
                       }
-@patients
+@doctors
 end
   
   
