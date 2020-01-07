@@ -33,6 +33,6 @@ def appointments
         @patients << appointment.patient
       end
                       }
-        
+@patients
 end
 end
